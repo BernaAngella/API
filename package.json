@@ -1,0 +1,29 @@
+{
+  "name": "dogapi",
+  "version": "1.0.0",
+  "description": "API development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernaAngella/API.git"
+  },
+  "keywords": [
+    "dogapi",
+    "api",
+    "dog"
+  ],
+  "author": "Berna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernaAngella/API/issues"
+  },
+  "homepage": "https://github.com/BernaAngella/API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
