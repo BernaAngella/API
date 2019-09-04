@@ -23,7 +23,12 @@
   "homepage": "https://github.com/BernaAngella/API#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "git": "^0.1.5",
+    "joi": "^13.1.0",
     "mysql": "^2.17.1",
     "nodemon": "^1.19.1"
+  },
+  "devDependencies": {
+    "@types/joi": "^14.3.3"
   }
 }
